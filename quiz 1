@@ -1,6 +1,7 @@
-q1)
+Question 1)
 
 Question 6)
+
   P(A or B) = 90%
   P(A) = 80%
   P(B) = 80%
@@ -11,3 +12,10 @@ Question 6)
           = (0.8 - 0.7) / (1 - 0.8)
           = 0.1 / 0.2
           = 0.5
+
+Question 7)
+
+  P (+ve | Preg) = 0.75
+  P (Preg) = 0.3
+  P (~+ve | ~Preg) = 0.52
+  
