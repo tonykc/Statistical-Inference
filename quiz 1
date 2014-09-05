@@ -14,8 +14,17 @@ Question 6)
           = 0.5
 
 Question 7)
-
-  P (+ve | Preg) = 0.75
   P (Preg) = 0.3
+  
+  P (+ve | Preg)  = 0.75
+                  = P (+ve and Preg) / P (Preg)
+  P (+ve and Preg) / P (Preg) = 0.75
+  P (+ve and Preg) = 0.75 * P (Preg) 
+  P (+ve and Preg) = 0.75 * 0.3 = 0.225
+  
   P (~+ve | ~Preg) = 0.52
+  P (~+ve and ~Preg) / P (~Preg) = 0.52
+  P (~+ve and ~Preg) / P (~Preg) = 0.52
+  
+  P (Preg | +ve) = P (Preg and +ve) / P (+ve)
   
