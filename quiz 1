@@ -8,6 +8,17 @@ Question 1)
   0.17 = 0.12 + P(B) - 0.06
   P(B) = 0.17 - 0.12 + 0.06 = 0.11
 
+Question 3)
+  P(head) = p
+  pay(head) = X
+  P(tail) = 1 - p
+  pay(tail) = Y
+  
+  fair means P(head) * pay (head) = P(tail) * pay (tail)
+  i.e. p X = (1 - p) Y
+  p / (1 - p) = Y / X
+  
+  
 Question 6)
 
   P(A or B) = 90%
