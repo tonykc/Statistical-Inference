@@ -35,12 +35,12 @@ Question 7)
   P (~+ve and ~Preg) = 0.52 * 0.7
   1 - P (+ve or Preg) = 0.364
   P (+ve or Preg) = 1 - 0.364 = 0.636
-  P (+ve) - P (Preg) + P (-ve and Preg) = 0.636
-  P (+ve) - P (Preg) + P (-ve and Preg) = 0.636
-  P (+ve) - 0.3 + 0.225 = 0.636
-  P (+ve) = 0.636 + 0.3 - 0.225 - 0.711
+  P (+ve) + P (Preg) - P (+ve and Preg) = 0.636
+  P (+ve) + P (Preg) - P (+ve and Preg) = 0.636
+  P (+ve) + 0.3 - 0.225 = 0.636
+  P (+ve) = 0.636 - 0.3 + 0.225 = 0.561
   
   P (Preg | +ve)  = P (Preg and +ve) / P (+ve)
-                  = 0.225 / 0.711
-                  = 0.316
+                  = 0.225 / 0.561
+                  = 0.401
   
