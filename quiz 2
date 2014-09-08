@@ -2,7 +2,12 @@ Question 3)
   qnorm (0.95, mean = 1100, sd = 75)
   
 Question 4)
+
+Question 5)
+  nCr x p^r x (1 - p)^(n - r)
   
+  P(4 or 5) = P(4) + P (5) = 
+  5 * 0.5^4 * 0.5 + 1 * 0.5^5 = 0.1875
 
 Question 9)
   # X ~ Poisson (lambda t)
