@@ -1,0 +1,8 @@
+
+Question 9)
+  X ~ Poisson (lambda t)
+  lambda = E [X / t] expected count per unit of time
+  t = total monitoring time
+  
+  ppois (10, lambda=5 * 3)
+  
