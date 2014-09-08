@@ -1,14 +1,13 @@
 Question 3)
-  1.645 = 95th percentiles of the standard normal distribution
+  qnorm (0.95, mean = 1100, sd = 75)
   
-  mean = 1100
-  sd = 75
-  95th percentile = 1100 + 1.645 * 75 = 1225
+Question 4)
   
+
 Question 9)
-  X ~ Poisson (lambda t)
-  lambda = E [X / t] expected count per unit of time
-  t = total monitoring time
+  # X ~ Poisson (lambda t)
+  # lambda = E [X / t] expected count per unit of time
+  # t = total monitoring time
   
   ppois (10, lambda=5 * 3)
   
