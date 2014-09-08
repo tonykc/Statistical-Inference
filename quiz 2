@@ -1,4 +1,10 @@
-
+Question 3)
+  1.645 = 95th percentiles of the standard normal distribution
+  
+  mean = 1100
+  sd = 75
+  95th percentile = 1100 + 1.645 * 75 = 1225
+  
 Question 9)
   X ~ Poisson (lambda t)
   lambda = E [X / t] expected count per unit of time
