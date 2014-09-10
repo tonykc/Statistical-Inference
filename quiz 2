@@ -1,3 +1,9 @@
+Question 2)
+  80 - 70 = 10 = 1 sd
+  ~68% of normal density lies within 1 sd from the mean.
+  
+  P (< 70) = 50% - 68% / 2 = 50% - 34% = 16%
+  
 Question 3)
   qnorm (0.95, mean = 1100, sd = 75)
   
