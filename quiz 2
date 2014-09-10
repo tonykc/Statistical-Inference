@@ -1,3 +1,7 @@
+Question 1)
+  sd' = sd/sqrt(n)
+  var' = sd'^2 = sd^2/n
+
 Question 2)
   80 - 70 = 10 = 1 sd
   ~68% of normal density lies within 1 sd from the mean.
