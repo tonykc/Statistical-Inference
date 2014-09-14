@@ -10,20 +10,34 @@ Question 2)
   
 Question 3)
   qnorm (0.95, mean = 1100, sd = 75)
+  1223
   
 Question 4)
   qnorm (0.95, mean = 1100, sd = 75 / sqrt (100))
-
+  1112
+  
 Question 5)
   nCr x p^r x (1 - p)^(n - r)
   
   P(4 or 5) = P(4) + P (5) = 
   5 * 0.5^4 * 0.5 + 1 * 0.5^5 = 0.1875
 
+Question 6)
+  68% ???
+
+Question 7)
+  0.5 ???
+  
+Question 8)
+  0.3 ???
+  
 Question 9)
   # X ~ Poisson (lambda t)
   # lambda = E [X / t] expected count per unit of time
   # t = total monitoring time
   
   ppois (10, lambda=5 * 3)
+  0.12
   
+Question 10)
+  0.5 ???
